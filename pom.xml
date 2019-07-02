@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sstd</groupId>
-    <artifactId>eruzscheme</artifactId>
+    <artifactId>eruzschemas</artifactId>
     <version>9.2.2-RELEASE</version>
     <packaging>jar</packaging>
     <name>ERUZ Schemes</name>
